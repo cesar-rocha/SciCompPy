@@ -26,4 +26,5 @@ This page is under development.
 * [Pythonic Perambulations](https://jakevdp.github.io/) by Jake Vanderplas.
 * [Python for oceanographers](https://ocefpaf.github.io/python4oceanographers/) by Filipe Fernandes.
 
-
+### Friendly pythonistas in oceanography and climate science.
+[Kristen Thyng](http://kristenthyng.com/), [Ryan Abernathey](http://rabernat.github.io/), [Rich Signell](https://about.me/rich.signell), [Rob Heatland](http://pong.tamu.edu/~rob/cv/).
