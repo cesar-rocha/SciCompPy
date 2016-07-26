@@ -23,6 +23,7 @@ This page is under development.
 ### Interesting blogs and posts
 * [What is Python, and why are we so enthusiastic about it?](http://geosci.uchicago.edu/~rtp1/itr/Python.html), a blog post
     by Ray Pierrehumbert.
+* [Nature's comment on IPython Notebooks](http://www.nature.com/news/interactive-notebooks-sharing-the-code-1.16261).
 * [Pythonic Perambulations](https://jakevdp.github.io/) by Jake Vanderplas.
 * [Python for oceanographers](https://ocefpaf.github.io/python4oceanographers/) by Filipe Fernandes.
 
