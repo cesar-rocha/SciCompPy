@@ -12,6 +12,7 @@ This page is under development.
 * [Harvard CS109](http://cs109.github.io/2015/), a full data science class on jupyter notebooks.
 * Software Carpentry's [lessons on python](http://swcarpentry.github.io/python-novice-inflammation/).
 * Atmosphere-Ocean-Science-specific [python tutorials](http://pyaos.johnny-lin.com/?page_id=217).
+* [Python 3 for Scientists](http://python-3-for-scientists.readthedocs.io/en/latest/index.html).
 * A [python workshop](https://git.io/vK59C) organized by [Ryan Abernathey](http://rabernat.github.io/) at [LDEO](http://www.ldeo.columbia.edu/).
 
 ### Useful Links
