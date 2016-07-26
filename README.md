@@ -1,9 +1,9 @@
 # 2016 COAP Python Workshop
 This page is under development.
 
-# Instructors
+## Instructors
 
-# Program
+## Program
 
-# Useful Links
+## Useful Links
 
