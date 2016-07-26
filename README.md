@@ -1,2 +1,9 @@
-# COAP-Python-Workshop
-A repository for the 2016 COAP Workshop on Scientific Computing with Python
+# 2016 COAP Python Workshop
+This page is under development.
+
+# Instructors
+
+# Program
+
+# Useful Links
+
