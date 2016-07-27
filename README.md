@@ -27,5 +27,13 @@ TBD.
 * [Pythonic Perambulations](https://jakevdp.github.io/) by Jake Vanderplas.
 * [Python for oceanographers](https://ocefpaf.github.io/python4oceanographers/) by Filipe Fernandes.
 
-### Friendly pythonistas in oceanography and climate science.
+### Awesome pythonistas in oceanography and climate science.
 [Noelle Held](http://www.mit.edu/~nheld/), [Brian Rose](http://www.atmos.albany.edu/facstaff/brose/index.html), [Kristen Thyng](http://kristenthyng.com/), [Ryan Abernathey](http://rabernat.github.io/), [Rich Signell](https://about.me/rich.signell), [Sophie Clayton](http://armbrustlab.ocean.washington.edu/people/clayton), [Damien Irving](https://drclimate.wordpress.com/who-is-dr-climate/), [Julien Le Sommer](http://lesommer.github.io/).
+
+### Projects to keep an eye on
+* [seaborn](https://stanford.edu/~mwaskom/software/seaborn/) for statistical visualization.
+* [altair](https://github.com/ellisonbg/altair) for declarative statistical visualization.
+* [dask](http://dask.pydata.org/en/latest/) versatile parallel programming with task scheduling.
+* [nbgrader](https://github.com/jupyter/nbgrader) a system for assigning and grading notebooks.
+
+
