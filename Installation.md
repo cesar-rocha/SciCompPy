@@ -12,8 +12,9 @@ Anaconda ships with a package manager called `conda` that comes in handy. To upd
 anaconda you can use:
 
 <code>
-$conda update --prefix CONDA_PATH anaconda
-</code></pre>
+$ conda update --prefix CONDA_PATH anaconda
+</code>
+
 where `CONDA_PATH` is the path where anaconda is installed. For example, on my computer
 `CONDA_PATH=/Users/crocha/anaconda3`.
 
