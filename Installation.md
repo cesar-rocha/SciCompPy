@@ -7,14 +7,23 @@ We call it scientific python because anaconda ships with the main packages (
 libraries and "toolboxes" if you will) used in science such as numpy, scipy,
 and matplotlib.
 
+### Updating 
+Anaconda ships with a package manager called `conda` that comes in handy. To update
+anaconda you can use:
+
+<pre><code>
+$ conda update --prefix CONDA_PATH anaconda
+</code></pre>
+where `CONDA_PATH` is the path where anaconda is installed. For example, on my computer
+`CONDA_PATH=/Users/crocha/anaconda3`.
+
 ## Why Python 3?
 (If you never used python before, you do not need to worry about this.)
 
 Most of scientific packages support python3. If you are a python newbie,
-you should start using python3. PSF will drop support to python2 by 2020
-and Jupyter Project next version (6.0) will no longer support python2.
+you should start using python3. [PSF](https://www.python.org/psf/) will drop support to python2 by 2020
+and the next version of IPython (6.0) will no longer support python2.
 
 If you currently use python2, consider migrating to python3. I encourage you
-to check out this [webpage](http://python-3-for-scientists.readthedocs.io/en/latest/) that some friends have put together to help scientists
+to check this [webpage](http://python-3-for-scientists.readthedocs.io/en/latest/) that some friends have put together to help scientists
 migrate from 2 to 3.
-
