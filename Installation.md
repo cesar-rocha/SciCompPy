@@ -8,12 +8,38 @@ libraries and "toolboxes" if you will) used in science such as numpy, scipy,
 and matplotlib.
 
 ### Updating 
+(If you are not familiar with command-line tools, there exists a GUI option.)
+
 Anaconda ships with a package manager called `conda` that comes in handy. To update
 anaconda you can use:
 
 <code>
 $ conda update --prefix CONDA_PATH anaconda
 </code>
+
+To install or update a specific package use
+
+<code>
+$ conda install PACKAGE
+</code>
+
+where `PACKAGE` is the name of the package you want to install/update.
+For example, we will be using a package called basemap for plotting maps.
+To install basemap use
+
+<code>
+$ conda install basemap
+</code>
+
+Packages that are not available directly through Anaconda can still be install
+with `conda` thanks to [conda-forge](https://conda-forge.github.io/). For example, 
+to install the commonly used [Gibbs-Sea-Water](http://www.teos-10.org/software.htm#1) "toolbox"
+
+<code>
+$ conda install gsw --chanell conda-forge
+</code>
+
+
 
 where `CONDA_PATH` is the path where anaconda is installed. For example, on my computer
 `CONDA_PATH=/Users/crocha/anaconda3`.
