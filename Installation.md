@@ -48,7 +48,7 @@ $ conda install gsw --channel conda-forge
 
 Most of scientific packages support python3. If you are a python newbie,
 you should start using python3. [PSF](https://www.python.org/psf/) will drop support to python2 by 2020
-and the next version of IPython (6.0) will no longer support python2.
+and the next version of [IPython](http://blog.jupyter.org/2016/07/08/ipython-5-0-released/) (6.0) will no longer support python2.
 
 If you currently use python2, consider migrating to python3. I encourage you
 to check this [webpage](http://python-3-for-scientists.readthedocs.io/en/latest/) that some friends have put together to help scientists
