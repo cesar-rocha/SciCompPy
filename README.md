@@ -15,7 +15,7 @@ TBD.
 * A [python workshop](https://git.io/vK59C) organized by [Ryan Abernathey](http://rabernat.github.io/) at [LDEO](http://www.ldeo.columbia.edu/).
 
 ### Useful Links
-* [Project Jypyter](http://jupyter.org/).
+* [Project Jupyter](http://jupyter.org/).
 * [Continuum Analytics](https://www.continuum.io/).
 * [SciPy Conference Videos](https://www.youtube.com/user/EnthoughtMedia).
 * [PyData Conference Videos](https://www.youtube.com/user/PyDataTV).
