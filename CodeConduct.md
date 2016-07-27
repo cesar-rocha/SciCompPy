@@ -5,7 +5,7 @@ We value the participation of everyone and want all attendees to have an enjoyab
 
 To make clear what is expected, everyone taking part in this student organized event is required to conform to the following Code of Conduct. Organizers will enforce this code throughout event.
 
-We want to promote a harassment-free experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, nationality, religion, or choice of text editor. We do not tolerate harassment of participants in any form.
+We want to promote a harassment-free experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, nationality, religion, operanting system, or  choice of text editor. We do not tolerate harassment of participants in any form.
 
 * Harassment includes offensive verbal or written comments related to gender, sexual orientation, disability, physical appearance, body size, race, or religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 
