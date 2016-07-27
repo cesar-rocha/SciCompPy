@@ -1,7 +1,7 @@
 
 ### Code of conduct
 
-We value the participation of everyone and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the workshop. The same standards of behaviour are expected on our interactions online.
+We value the participation of everyone and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the workshop. The same standards of behaviour are expected online.
 
 To make clear what is expected, everyone taking part in this student organized event is required to conform to the following Code of Conduct. Organizers will enforce this code throughout event.
 
