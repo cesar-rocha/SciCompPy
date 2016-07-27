@@ -40,7 +40,7 @@ with `conda` thanks to [conda-forge](https://conda-forge.github.io/). For exampl
 to install the commonly used [Gibbs-Sea-Water](http://www.teos-10.org/software.htm#1) "toolbox"
 
 <code>
-$ conda install gsw --chanell conda-forge
+$ conda install gsw --channel conda-forge
 </code>
 
 ## Why Python 3?
