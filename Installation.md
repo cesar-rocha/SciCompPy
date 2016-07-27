@@ -17,6 +17,9 @@ anaconda you can use:
 $ conda update --prefix CONDA_PATH anaconda
 </code>
 
+where `CONDA_PATH` is the path where anaconda is installed. For example, on my computer
+`CONDA_PATH=/Users/crocha/anaconda3`.
+
 To install or update a specific package use
 
 <code>
@@ -38,11 +41,6 @@ to install the commonly used [Gibbs-Sea-Water](http://www.teos-10.org/software.h
 <code>
 $ conda install gsw --chanell conda-forge
 </code>
-
-
-
-where `CONDA_PATH` is the path where anaconda is installed. For example, on my computer
-`CONDA_PATH=/Users/crocha/anaconda3`.
 
 ## Why Python 3?
 (If you never used python before, you do not need to worry about this.)
