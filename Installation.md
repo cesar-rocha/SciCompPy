@@ -4,7 +4,8 @@
 Install [anaconda](https://www.continuum.io/downloads) with python 3.5.
 This is a free scientific python platform available for Linux, OSX and Windows.
 We call it scientific python because anaconda ships with the main packages (
-libraries and ``toolboxes'' if you will) used in science.
+libraries and "toolboxes" if you will) used in science such as numpy, scipy,
+and matplotlib.
 
 ## Why Python 3?
 Most of scientific packages support python3. If you are a python newbie,
