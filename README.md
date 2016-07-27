@@ -35,5 +35,5 @@ TBD.
 * [altair](https://github.com/ellisonbg/altair) for declarative statistical visualization.
 * [dask](http://dask.pydata.org/en/latest/) versatile parallel programming with task scheduling.
 * [nbgrader](https://github.com/jupyter/nbgrader) a system for assigning and grading notebooks.
-
+* [bokeh](http://bokeh.pydata.org/en/latest/) a python interactive visualization.
 
