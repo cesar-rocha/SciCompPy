@@ -37,7 +37,7 @@ $ conda install basemap
 
 Packages that are not available directly through Anaconda can still be install
 with `conda` thanks to [conda-forge](https://conda-forge.github.io/). For example, 
-to install the commonly used [Gibbs-Sea-Water](http://www.teos-10.org/software.htm#1) "toolbox"
+to install the commonly used [Gibbs-SeaWater](http://www.teos-10.org/software.htm#1) "toolbox"
 
 <code>
 $ conda install gsw --channel conda-forge
