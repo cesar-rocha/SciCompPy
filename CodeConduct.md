@@ -9,7 +9,7 @@ We want to promote a harassment-free experience for everyone, regardless of gend
 
 * Harassment includes offensive verbal or written comments related to gender, sexual orientation, disability, physical appearance, body size, race, or religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 
-* All communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate for any event.
+* All communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate.
 
 * Be kind to others. Do not insult or put down other participants.
 
