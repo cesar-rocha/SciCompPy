@@ -11,8 +11,8 @@ and matplotlib.
 Anaconda ships with a package manager called `conda` that comes in handy. To update
 anaconda you can use:
 
-<pre><code>
-$ conda update --prefix CONDA_PATH anaconda
+<code>
+$conda update --prefix CONDA_PATH anaconda
 </code></pre>
 where `CONDA_PATH` is the path where anaconda is installed. For example, on my computer
 `CONDA_PATH=/Users/crocha/anaconda3`.
