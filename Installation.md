@@ -1,4 +1,5 @@
 # Installation of scientific python environment
+This page is under development.
 
 ## Anaconda
 Install [anaconda](https://www.continuum.io/downloads) with python 3.5.
