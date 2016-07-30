@@ -28,7 +28,7 @@ TBD.
 * [Python for oceanographers](https://ocefpaf.github.io/python4oceanographers/) by Filipe Fernandes.
 
 ### Awesome pythonistas in oceanography and climate science.
-[Noelle Held](http://www.mit.edu/~nheld/), [Brian Rose](http://www.atmos.albany.edu/facstaff/brose/index.html), [Kristen Thyng](http://kristenthyng.com/), [Ryan Abernathey](http://rabernat.github.io/), [Rich Signell](https://about.me/rich.signell), [Sophie Clayton](http://armbrustlab.ocean.washington.edu/people/clayton), [Damien Irving](https://drclimate.wordpress.com/who-is-dr-climate/), [Julien Le Sommer](http://lesommer.github.io/).
+[Eric Firing](https://github.com/efiring), [Noelle Held](http://www.mit.edu/~nheld/), [Brian Rose](http://www.atmos.albany.edu/facstaff/brose/index.html), [Kristen Thyng](http://kristenthyng.com/), [Ryan Abernathey](http://rabernat.github.io/), [Rich Signell](https://about.me/rich.signell), [Sophie Clayton](http://armbrustlab.ocean.washington.edu/people/clayton), [Damien Irving](https://drclimate.wordpress.com/who-is-dr-climate/), [Julien Le Sommer](http://lesommer.github.io/).
 
 ### Projects to keep an eye on
 * [seaborn](https://stanford.edu/~mwaskom/software/seaborn/) for statistical visualization.
