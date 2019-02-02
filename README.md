@@ -1,5 +1,4 @@
-# 2016 COAP Python Workshop
-This page is under development.
+# Scientific Computing with Python
 
 ## Program
 TBD.
